@@ -12,6 +12,6 @@ PacmanOS
 
 [PacmanPatcher](https://github.com/jprx/PacmanPatcher)
 
-PacmanFinder
+[PacmanFinder](https://github.com/jprx/PacmanFinder)
 
 [PacmanPoC for DEF CON (PACMAN II)](https://github.com/jprx/PacmanPoC-DEFCON)
