@@ -8,7 +8,7 @@ ISCA 2022 PoC Code (PACMAN I)
 
 [PacmanKit](https://github.com/jprx/PacmanKit)
 
-PacmanOS
+[PacmanOS](https://github.com/jprx/PacmanOS)
 
 [PacmanPatcher](https://github.com/jprx/PacmanPatcher)
 
