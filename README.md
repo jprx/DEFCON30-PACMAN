@@ -14,4 +14,4 @@ ISCA 2022 PoC Code (PACMAN I)
 
 [PacmanFinder](https://github.com/jprx/PacmanFinder)
 
-[PacmanPoC for DEF CON (PACMAN II)](https://github.com/jprx/PacmanPoC-DEFCON)
+[Pacman II Attack](https://github.com/jprx/PacmanAttack)
